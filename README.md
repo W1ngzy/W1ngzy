@@ -22,4 +22,4 @@
 
 ## Contributions
   <img align="left" width="400" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=W1ngzy&show_icons=true&bg_color=00000000">
-  <img align="right" width="320" alt="languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1ngzy&show_icons=true&bg_color=00000000&layout=compact">
+  <img align="right" width="400" alt="languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1ngzy&show_icons=true&bg_color=00000000&layout=compact">
