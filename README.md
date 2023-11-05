@@ -4,6 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=W1ngzy" alt="W1ngzy Profile Views" />
 
 - I'm currently learning the basics of front-end development
+- Currently following The Odin Project
 
   ## Languages and Tools
   
