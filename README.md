@@ -1,5 +1,5 @@
 # Hello, I'm Ruan Cronje
-##Aspiring Web Developer
+## Aspiring Web Developer
 
 <img src="https://komarev.com/ghpvc/?username=W1ngzy" alt="W1ngzy Profile Views" />
 
