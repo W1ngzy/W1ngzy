@@ -14,6 +14,9 @@
   ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
   ![Visual Studio Code](https://img.shields.io/badge/-visual%20studio%20code-05122A?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 
+##
+  [![Profile badge](https://www.codewars.com/users/W1ngzy/badges/large)](https://www.codewars.com/users/W1ngzy)
+
 ## Contact Me
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/w1ngzy/)
   [![Yahoo Badge](https://img.shields.io/badge/-Yahoo-c14438?style=flat-square&logo=Yahoo&logoColor=white&link=mailto:yahoo.com)](mailto:ruancronje@yahoo.com)
