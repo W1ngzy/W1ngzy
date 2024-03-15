@@ -1,6 +1,7 @@
 # Hello, I'm Ruan
 ## Self-Taught Programmer
 ## Skill level: Super Beginner
+## Experience: 1 - 2 Months
 
 <img src="https://komarev.com/ghpvc/?username=W1ngzy" alt="W1ngzy Profile Views" />
 
