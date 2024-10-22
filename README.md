@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=W1ngzy" alt="W1ngzy Profile Views" />
 
 - I'm currently learning the basics of programming.
-- Currently busy with: The Odin Project
+- Currently busy with various online web dev tutorials
 - Currently busy with: CS50 - Intoduction to Computer Science
 
 ## Languages and Tools
